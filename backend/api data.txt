@@ -1,0 +1,13 @@
+revealtoken = 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
+
+
+api key = 81bd8d3038383052b5aac9412ca48741
+
+
+
+api secret key =b8de26305d0230745d8b24b710b8848a
+
+
+milind10rpatil@gmail.com
+
+/milind-internship-store
